@@ -15,7 +15,7 @@ using an implemented design on your Basys3 boards.
 
 ## Lab Summary
 
-I this lab, we played around with KMaps. We found the SOP and POS of a function using values from the truth table and inserting the values into a KMap. Using the KMap we used either positive or negative logic depending on whether we are solving for SOP or POS.Both SOP and POS gave us an optimized for of the equation. We also saw how using the canonical expression (for POS/SOP) is much less efficient. It has a lot more terms and it isn't the optimzed version. Then, we used Verilog and coded in our functions and saw that all three version of the function (POS, SOP, canonical) all yield the same results within  the truth table, which meant that all three functions were equivalent to each other. 
+In this lab, we played around with KMaps. We found the SOP and POS of a function using values from the truth table and inserting the values into a KMap. Using the KMap we used either positive or negative logic depending on whether we are solving for SOP or POS. Both SOP and POS gave us an optimized form of the equation. We also saw how using the canonical expression (for POS/SOP) is much less efficient. It has a lot more terms and it isn't the optimzed version. Then, we used Verilog and coded in our functions and saw that all three version of the function (POS, SOP, canonical) all yield the same results within the truth table, which meant that all three versions were equivalent to each other. 
 
 ## Lab Questions
 
